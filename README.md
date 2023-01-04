@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanjariya Mehul Kumar</h1>
-<h3 align="center">An Aspiring MERN Stack Developer</h3>
+
+Hello folks! my name is Kanjariya Mehul Kumar and I am an aspiring Full Stack Developer, passionate about building digital products. I love to work on exciting projects. Currently learning MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting opportunities.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mehul-Kanjariya&label=Profile%20views&color=0e75b6&style=flat" alt="tushit99" /> </p>
 <div align="center" >
