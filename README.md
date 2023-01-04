@@ -1,5 +1,5 @@
 
-<h3 align="center">An Aspiring MERN developer</h3>
+<h3 align="center">An Aspiring MERN Stack developer</h3>
 
 
 🔭 Student at Masai School, Bengaluru
