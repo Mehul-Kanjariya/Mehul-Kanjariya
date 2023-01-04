@@ -33,14 +33,15 @@
 <p align="left">
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mehul-Kanjariya&show_icons=true&theme=default&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehul-Kanjariya&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul-Kanjariya&theme=default&count_private=true" align="center" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mehul-Kanjariya&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehul-Kanjariya&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul-Kanjariya&theme=tokyonight&border_radius=10" align="center" />
 </p>
 
 <h1>✍️ Random Dev Quote</h1>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+
 
 </br>
 <img src="https://camo.githubusercontent.com/705a24382a6f19d9df456083acea08e6961e7887156b1bb7c0992343f2d35698/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a735636304a686c594c344964576a634e764b544a52412e706e67"/>
