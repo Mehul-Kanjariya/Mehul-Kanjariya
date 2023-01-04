@@ -8,7 +8,7 @@
 
 👯 Looking to collaborate on Interesting projects using springboot
 
-👨‍💻 Checkout my Portfolio  
+👨‍💻 Checkout my <a href="https://mehul-kanjariya.github.io/" target="_blank">Portfolio</a>  
 
 🖥  Checkout my <a href="https://drive.google.com/file/d/1Jl0rrOTxr3cPVZteR_TIWVdVXadnv8HS/view?usp=share_link" target="_blank">Resume</a>
 
