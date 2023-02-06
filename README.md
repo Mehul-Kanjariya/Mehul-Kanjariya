@@ -20,7 +20,7 @@ Hello folks! my name is Kanjariya Mehul Kumar and I am an aspiring Full Stack De
 
 💬 Ask me about coding because that's what fascinates me
 
-📫 How to reach me <a href="mehulktik@gmail.com">mehulktik@gmail.com</a>
+<!-- 📫 How to reach me <a href="mehulktik@gmail.com">mehulktik@gmail.com</a> -->
 
 ⚡ Fun fact I think I am creative
 
