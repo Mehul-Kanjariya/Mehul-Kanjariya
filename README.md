@@ -29,7 +29,7 @@ Hello folks! my name is Kanjariya Mehul Kumar and I am an aspiring Full Stack De
 
 <h1>💻 Tech Stack:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,vercel,vscode,chakra)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,vercel,vscode,chakra,vue,tailwind)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 <p align="left">
