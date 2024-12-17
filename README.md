@@ -8,11 +8,7 @@ Hello folks! my name is Kanjariya Mehul Kumar and I am an aspiring Full Stack De
 </div>
 <br/>
 
-🔭 Student at Masai School, Bengaluru
-
 🌱 Learning MERN
-
-👯 Looking to collaborate on Interesting projects using springboot
 
 👨‍💻 Checkout my <a href="https://mehul-kanjariya.github.io/">Portfolio</a>  
 
